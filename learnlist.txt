@@ -1,3 +1,4 @@
+git init                              初始化
 git status                            work state
 git diff <a>                          a 的修改比较
 git reset  -- hard HEAD^              版本回溯
