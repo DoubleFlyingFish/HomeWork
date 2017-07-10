@@ -1,0 +1,2 @@
+git status                            work state
+git diff <a>                          a 的修改比较
