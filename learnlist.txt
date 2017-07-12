@@ -9,3 +9,8 @@ git reset -- HEAD a                   将a从暂存区退回到工作区
 git rm    a                           将a从版本库删除
 git push -u origin master             将本地库内容推送到远程库将本地库内容推送到远程库
 git push origin master                推送最新的修改
+git checkout -b dev                   创建dev分支并切换到分支-b表示切换
+git branch dev                        创建dev分支
+git checkout dev                      切换到dev分支
+git branch                            查看当前分支
+
